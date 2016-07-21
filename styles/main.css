@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'rob';
+    src: url(../fonts/Roboto-Thin.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    height: 100vh;
+    font-family: 'rob';
+}
+
+input {
+    width: 100%;
+    min-height: 20px;
+    background: deepskyblue;
+    color: darkblue;
+}
+
+button {
+    min-width: 60px;
+    background: midnightblue;
+    color: white;
+}
