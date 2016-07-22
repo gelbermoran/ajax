@@ -1,0 +1,22 @@
+[
+    {
+        "nombre" : "Gelber",
+        "celular" : "3155597677",
+        "correo" : "gelbermoran@gmail.com"
+    },
+    {
+        "nombre" : "Hugo",
+        "celular" : "3119847568",
+        "correo" : "hugo@gmail.com"
+    },
+    {
+        "nombre" : "Paco",
+        "celular" : "3208765988",
+        "correo" : "paco@gmail.com"
+    },
+    {
+        "nombre" : "Luis",
+        "celular" : "3004871208",
+        "correo" : "luis@gmail.com"
+    }
+]

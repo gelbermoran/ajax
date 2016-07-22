@@ -2,7 +2,9 @@
   "name": "ajax",
   "version": "1.0.0",
   "description": "Ejemplo Ajax",
-  "scripts": {},
+  "scripts": {
+    "start": "lite-server"
+  },
   "author": "Gelber Moran",
   "license": "ISC",
   "dependencies": {

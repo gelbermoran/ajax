@@ -8,8 +8,10 @@
         <link rel="stylesheet" href="styles/main.css">
         <script src="js/ajax.js"></script> 
     </head>
-    <body>
-        <button onclick="loadTxt()">Cargar</button>
-        <div id="txt"></div>
+    <body onload="loadUsr()">
+        <button onclick="loadTxt()">Cargar Texto</button>
+        <button onclick="loadUsr()">Cargar Json Usuarios</button>
+        <div id="txt"></div>        
+        <div id="usr"></div>
     </body>
 </html>
